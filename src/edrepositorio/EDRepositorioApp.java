@@ -8,15 +8,7 @@ package edrepositorio;
 /**
  *
  * @author Fran J
- * @version 06/05/2020
  */
-public class EDRepositorio {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+public class EDRepositorioApp {
     
 }
